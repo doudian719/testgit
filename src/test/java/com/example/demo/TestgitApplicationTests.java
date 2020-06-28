@@ -9,5 +9,13 @@ class TestgitApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+@Test
+	void contextLoads() {
+	}
+	@Test
+	void contextLoads() {
+	}
+	@Test
+	void contextLoads() {
+	}
 }
